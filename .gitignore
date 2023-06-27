@@ -1,5 +1,7 @@
 educational/
 db.sqlite
+apps/courses/migrations
+apps/lessons/migrations
 # Created by https://www.toptal.com/developers/gitignore/api/django,python,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=django,python,node
 
